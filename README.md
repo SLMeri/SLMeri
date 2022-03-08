@@ -1,6 +1,11 @@
 ### Hey I'm Meri, 😃😁 Dap me up! 👊 **Thanks for visiting my profile!** ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSLMeri%2FSLMeri&label=Visitors&labelColor=%2300b3bf&countColor=%23697689&style=plastic)
 ###
+**A Little About Myself:**
+- 🌊 I am a Full-Stack Engineer who is infatuated with solving problems with code. 
 - 💬 I am into Programming, Hip-Hop and Basketball! 
+- 🌍 I love to travel. I have visited over 15 countries and want to make it 100+ before I turn 40
+- 📱 Lets connect and work on something together!
+- 📬 You can contact me via email @ sterling.meriweather@gmail.com
 
 
 💻 **This Week I Spent My Time On:**

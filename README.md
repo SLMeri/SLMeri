@@ -1,5 +1,7 @@
 ### Was Good!! 😃😁, Dap me up! 👊
 
+${SLMeri}.${74334648} ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **SLMeri/SLMeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

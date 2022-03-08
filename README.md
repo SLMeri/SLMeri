@@ -1,8 +1,8 @@
-### Was Good!! 😃😁, Dap me up! 👊
-###
-**Thanks for visiting my profile!** ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSLMeri%2FSLMeri&label=Visitors&labelColor=%2300b3bf&countColor=%23697689&style=plastic)
+### Was Good!! 😃😁, Dap me up! 👊 **Thanks for visiting my profile!** ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSLMeri%2FSLMeri&label=Visitors&labelColor=%2300b3bf&countColor=%23697689&style=plastic)
 ###
 - 💬 I am into Programming, Hip-Hop and Basketball! 
+
+
 💻 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text

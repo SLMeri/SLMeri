@@ -2,9 +2,6 @@
 ###
 **Thanks for visiting my profile!** ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSLMeri%2FSLMeri&label=Visitors&labelColor=%2300b3bf&countColor=%23697689&style=plastic)
 ###
-###
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLMeri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLMeri&layout=compact)](https://github.com/SLMeri/github-readme-stats)
-
 💻 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
@@ -16,6 +13,11 @@ Python           0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+###
+**My GitHub Stats**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLMeri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLMeri&layout=compact)](https://github.com/SLMeri/github-readme-stats)
+
+
 <!--
 **SLMeri/SLMeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

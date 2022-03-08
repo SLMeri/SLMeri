@@ -3,9 +3,10 @@
 **A Little About Myself:**
 - 🌊 I am a Full-Stack Engineer who is infatuated with solving problems with code. 
 - 💬 I am into Programming, Hip-Hop and Basketball! 
-- 🌍 I love to travel. I have visited over 15 countries and want to make it 100+ before I turn 40
+- 🌍 I love to travel. I have visited over 15 countries and want to make it 100+ before I turn 40.
 - 📱 Lets connect and work on something together!
 - 📬 You can contact me via email @ sterling.meriweather@gmail.com
+- 📃 If your looking for my resume you can find it here -->
 
 
 💻 **This Week I Spent My Time On:**

@@ -6,6 +6,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLMeri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+
+```text
+Java             7 hrs 54 mins   █████████████████████████   99.94 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **SLMeri/SLMeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
